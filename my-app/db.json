@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "756d",
+      "title": "Задача 1",
+      "completed": false
+    },
+    {
+      "id": "289e",
+      "title": "Задача 2",
+      "completed": false
+    },
+    {
+      "id": "34ab",
+      "title": "Задача 3",
+      "completed": false
+    },
+    {
+      "id": "fdcc",
+      "title": "Задача 4",
+      "completed": false
+    }
+  ]
+}
